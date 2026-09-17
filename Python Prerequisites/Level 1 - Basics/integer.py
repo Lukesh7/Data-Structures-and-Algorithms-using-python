@@ -1,5 +1,5 @@
 #Integer - stores whole number
-"""
+
 age = 21
 marks = 85
 count = 100
@@ -9,7 +9,7 @@ print(f"Age of the student is {age}")
 print(f"Marks of the exam is {marks}")
 print(f"Count begins from {count}")
 print(f"The temperature of the food is {temperature}")
-"""
+
 # Operators
 #(- Subtraction, + Addition , * Multiplication, / Division, // Floor Division, % Remainder, ** Power)
 
@@ -39,6 +39,6 @@ count = 0
 count += 1
 count += 1
 count += 1
-print(count)
+print(count) #3
 
 
